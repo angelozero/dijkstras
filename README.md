@@ -1,6 +1,6 @@
 # Dijkstra's Algorithm 
 
-### Finding the shortest path between two vertices of a given graph.
+### Encontrando o menor caminho entre duas vértices de um determinado grafo
 ---
 ![alt text](./images/image-7.png)
 
